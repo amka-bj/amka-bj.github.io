@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://amkaiamyouare-lab.github.io/amka/sitemap.xml
